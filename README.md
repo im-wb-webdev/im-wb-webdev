@@ -14,7 +14,7 @@ Thank you for visiting my GitHub profile.
 
 ## About Me
 
-<img align="right" width="400" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
+<img align="right" width="400" height="240px" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
 
 * 🌍  I'm based in Visakhapatnam, INDIA. 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio) 
@@ -27,7 +27,7 @@ Thank you for visiting my GitHub profile.
 
 ## Skills
 
-<p align="left">
+<p align="center">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
     target="_blank"
@@ -213,7 +213,7 @@ Thank you for visiting my GitHub profile.
 </p>
 
 ## My Work Process as a Freelance Web Developer
-<img src="https://i1.wp.com/www.proactii.com/wp-content/uploads/2019/12/web-design-gif.gif?ssl=1" alt="my work process">
+<img align="center" src="https://i1.wp.com/www.proactii.com/wp-content/uploads/2019/12/web-design-gif.gif?ssl=1" alt="my work process">
 
 ## Socials
 
