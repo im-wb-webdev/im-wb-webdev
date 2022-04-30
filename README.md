@@ -1,7 +1,7 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/im-wb-webdev/im-wb-webdev)
 
 
-Hi 👋 My name is Waseem
+# Hi 👋 My name is Waseem
 =======================
 
 Full Stack Web Developer
@@ -251,3 +251,15 @@ Thank you for visiting my GitHub profile.
       height="32"
   /></a>
 </p>
+
+## Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/im-wb-webdev"><img src="https://github-readme-stats.vercel.app/api?username=hjk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hjk's GitHub stats" /></a>
+
+<a href="http://www.github.com/im-wb-webdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hjk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/im-wb-webdev"><img src="https://activity-graph.herokuapp.com/graph?username=hjk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/im-wb-webdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
