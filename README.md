@@ -1,7 +1,7 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/im-wb-webdev/im-wb-webdev)
 
 
-# Hi 👋 My name is Waseem
+Hi 👋 My name is Waseem
 =======================
 
 Full Stack Web Developer
