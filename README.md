@@ -14,7 +14,7 @@ Thank you for visiting my GitHub profile.
 
 ## About Me
 
-<img align="right" width="400" height="220px" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
+<img align="right" width="400" height="210px" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
 
 * 🌍  I'm based in Visakhapatnam, INDIA. 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio) 
