@@ -1,6 +1,5 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/im-wb-webdev/im-wb-webdev)
 
-
 Hi 👋 My name is Waseem
 =======================
 
@@ -12,6 +11,11 @@ Thank you for visiting my GitHub profile.
 ⚪ Self-taught digital marketer | freelancer 
 ⚪ Founder @webdevelopervizag 
 ⚪ Check out my YouTube channel @webdevelopervizag
+
+## About Me
+
+<img align="right" width="400" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
+
 * 🌍  I'm based in Visakhapatnam, INDIA. 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio) 
 * ✉️  You can contact me at [emailme@gmail.com](mailto:email@gmail.com) 
@@ -19,6 +23,7 @@ Thank you for visiting my GitHub profile.
 * 🧠  I'm learning NewLearning 
 * 🤝  I'm open to collaborating on WebsiteBuild 
 * ⚡  Lets build Web Stronger Together.
+
 
 ## Skills
 
@@ -207,6 +212,9 @@ Thank you for visiting my GitHub profile.
   /></a>
 </p>
 
+## My Work Process as a Freelance Web Developer
+<img src="https://i1.wp.com/www.proactii.com/wp-content/uploads/2019/12/web-design-gif.gif?ssl=1" alt="my work process">
+
 ## Socials
 
 <p align="left">
@@ -256,10 +264,16 @@ Thank you for visiting my GitHub profile.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/im-wb-webdev"><img src="https://github-readme-stats.vercel.app/api?username=hjk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hjk's GitHub stats" /></a>
+## Commits
 
-<a href="http://www.github.com/im-wb-webdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hjk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/im-wb-webdev"><img src="https://activity-graph.herokuapp.com/graph?username=im-wb-webdev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="http://www.github.com/im-wb-webdev"><img src="https://activity-graph.herokuapp.com/graph?username=hjk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## GitHub Stats
 
-<a href="https://github.com/im-wb-webdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/im-wb-webdev" align="left"><img  src="https://github-readme-stats.vercel.app/api?username=im-wb-webdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
+
+<a  href="http://www.github.com/im-wb-webdev" align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=im-wb-webdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## Top Languages
+
+<a href="https://github.com/im-wb-webdev" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-wb-webdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
