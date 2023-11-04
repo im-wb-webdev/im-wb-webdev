@@ -17,7 +17,7 @@ Thank you for visiting my GitHub profile.
 <img align="right" width="400" height="210px" src="http://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="about me image">
 
 * 🌍  I'm based in Visakhapatnam, INDIA. 
-* 🖥️  See my portfolio at [My Portfolio](https://waseemsportfolio.vercel.app/) 
+* 🖥️  See my portfolio at [My Portfolio](https://bit.ly/3bh3FFu) 
 * ✉️  You can contact me at [waseembittu5@gmail.com](mailto:waseembittu5@gmail.com) 
 * 🚀  I'm currently working on [workingApp](http://workingApp) 
 * 🧠  I'm learning NewLearning 
