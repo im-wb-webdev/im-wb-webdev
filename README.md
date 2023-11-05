@@ -8,8 +8,8 @@ Full Stack Web Developer
 ------------------------ 
 
 Thank you for visiting my GitHub profile.
-* ⚪ I am a graphic designer by passion & a full stack web developer by profession.
-* ⚪ Self-taught digital marketer | freelancer 
+* ⚪ I am a graphic designer by passion & a full-stack web developer by profession.
+* ⚪ Self-taught digital marketer | Freelancer 
 * ⚪ Founder @webdevelopervizag 
 * ⚪ Check out my YouTube channel @webdevelopervizag.
 
