@@ -20,10 +20,10 @@ Thank you for visiting my GitHub profile.
 * 🌍  I'm based in Visakhapatnam, INDIA. 
 * 🖥️  See my portfolio at [My Portfolio](https://bit.ly/3bh3FFu) 
 * ✉️  You can contact me at [waseembittu5@gmail.com](mailto:waseembittu5@gmail.com) 
-* 🚀  I'm currently working on [workingApp](http://workingApp) 
+* 🚀  I'm currently working on [Secret Project](https://github.com/im-wb-webdev) 
 * 🧠  I'm learning NewLearning 
 * 🤝  I'm open to collaborating on WebsiteBuild 
-* ⚡  Lets build Web Stronger Together.
+* ⚡ Let's build Web Stronger Together.
 
 
 ## Skills
