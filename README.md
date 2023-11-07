@@ -21,8 +21,8 @@ Thank you for visiting my GitHub profile.
 * 🖥️  See my portfolio at [My Portfolio](https://bit.ly/3bh3FFu) 
 * ✉️  You can contact me at [waseembittu5@gmail.com](mailto:waseembittu5@gmail.com) 
 * 🚀  I'm currently working on a [Secret Project](https://github.com/im-wb-webdev) 
-* 🧠  I'm learning NewLearning 
-* 🤝  I'm open to collaborating on WebsiteBuild 
+* 🧠  I'm learning the World Wide Web.
+* 🤝  I'm open to collaborating on Website Builds. 
 * ⚡ Let's build Web Stronger Together.
 
 
